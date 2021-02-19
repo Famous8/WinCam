@@ -9,7 +9,9 @@ Main Features:
 - and More!
 
 And don't worry, if there is a feature you would like to add that isn't already included, you can contribute to this project!
-
+@settings {
+  font-size: 100;
+}
 **Simple Guide**
 
 To get video feed from a camera, and show it in a window, use this simple script.
