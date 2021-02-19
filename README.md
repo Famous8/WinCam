@@ -9,10 +9,8 @@ Main Features:
 - and More!
 
 And don't worry, if there is a feature you would like to add that isn't already included, you can contribute to this project!
-@settings {
-  font-size: 100;
-}
-**Simple Guide**
+
+# Simple Guide
 
 To get video feed from a camera, and show it in a window, use this simple script.
 ```py
@@ -34,4 +32,4 @@ print(cameras)
 This is my Output:
 ```['0. Panasonic TY-CC20W', '1. Logitech C920S', '2. HD 1080P Webcam']```
 
-**Visit the docs here: https://wincam.readthedocs.io**
+# Visit the docs here: https://wincam.readthedocs.io
