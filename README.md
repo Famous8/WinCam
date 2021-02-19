@@ -10,7 +10,8 @@ Main Features:
 
 And don't worry, if there is a feature you would like to add that isn't already included, you can contribute to this project!
 
-#Simple Guide
+Simple Guide
+
 To get video feed from a camera, and show it in a window, use this simple script.
 ```py
 import wincam
