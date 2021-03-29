@@ -1,3 +1,5 @@
+# Not Planning to make this anytime soon! Comment if you want to contribute.
+
 # WinCam
 WinCam, the perfect module to handle picture and video on Windows.
 
@@ -32,4 +34,4 @@ print(cameras)
 This is my Output:
 ```['0. Panasonic TY-CC20W', '1. Logitech C920S', '2. HD 1080P Webcam']```
 
-# Visit the docs here: https://wincam.readthedocs.io
+
